@@ -1,0 +1,31 @@
+Atividade_04
+
+1-
+c)Terceiro elemento.
+
+2-
+b)Não.
+
+3-
+d)7.
+
+4-
+19 caracteres por causa do "\0" que ficam armazenado na ultima posição e delimita o fim da cadeia de string.
+
+5-
+e)pte é igual a 10.
+
+6-
+f)*pj=&j;
+
+7-
+d)
+
+8-
+a) efetuamos a leitura de f.
+
+9-
+c)
+
+10
+e)
