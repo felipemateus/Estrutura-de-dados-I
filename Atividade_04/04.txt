@@ -1,4 +1,0 @@
-Atividade_04
-
-4-
-19 caracteres por causa do "\0" que ficam armazenado na ultima posição e delimita o fim da cadeia de string.
