@@ -1,0 +1,20 @@
+sim:/Validador/vetor 
+
+
+101  -- 001 101 -- 001 100 -- 001 011 -- 001 010 -- 001 001--   000 
+
+                   
+101 0001 0101 0001 0100 0001 0011 0001 0010 0001 0001 000
+
+101 001 101 001 100 001 011 001 010 001 001 000
+
+
+force -freeze sim:/Validador/tipo 000 0
+force -freeze sim:/Validador/direcao 0 0
+force -freeze sim:/Validador/valida 0 0
+force -freeze sim:/Validador/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/Validador/x1 001 0
+force -freeze sim:/Validador/y1 001 0
+
+
+sim:/Validador/vetor 
